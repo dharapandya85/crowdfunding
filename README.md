@@ -17,10 +17,10 @@ Download hardhat and  ethers.
 ## npm i ethers@version
 
 Split your terminal to run your nodes
-## npm hardhat node
+## npx hardhat node
 
 Deploy your test file and get the address
-## npm hardhat run --network localhost folder/file.js
+## npx hardhat run --network localhost folder/file.js
 
 
 Test on localhost
